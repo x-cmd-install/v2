@@ -1,0 +1,65 @@
+about:
+  description: Minimalist and opinionated feed reader
+  license: Apache-2.0
+  homepage: https://miniflux.app
+  head: a84533d
+  archived: false
+  latestVersion: 2.3.3
+  collectedAt: 2026-08-31T05:50:24Z
+timeline:
+  created: 2017-11-20
+  lastCommit: 2026-08-24
+  lastRelease: 2026-07-24
+popularity:
+  star: 9629
+  watcher: 63
+  fork: 923
+  release: 82
+  contributor: 298
+  pullRequest: 314
+  issue: 1544
+language:
+  Go: 2409699
+  HTML: 193921
+  JavaScript: 62134
+  CSS: 39664
+  Roff: 15752
+  Bru: 13267
+  Makefile: 5291
+  Shell: 4926
+  Dockerfile: 2569
+  Procfile: 18
+totalLine: 2747241
+recent:
+  last30d:
+    since: 2026-08-01
+    release: 0
+    mergedPR: 11
+    openPR: 7
+    closedIssue: 3
+    openIssue: 7
+    commit: 9
+  last90d:
+    since: 2026-06-02
+    release: 2
+    mergedPR: 77
+    openPR: 14
+    closedIssue: 9
+    openIssue: 20
+    commit: 78
+  last180d:
+    since: 2026-03-04
+    release: 6
+    mergedPR: 288
+    openPR: 16
+    closedIssue: 29
+    openIssue: 30
+    commit: 298
+  last360d:
+    since: 2025-09-05
+    release: 11
+    mergedPR: 490
+    openPR: 16
+    closedIssue: 74
+    openIssue: 55
+    commit: 516
