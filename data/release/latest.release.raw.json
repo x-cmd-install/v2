@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 7161085,
       "digest": "sha256:e0fdd1796573b288198f71d513043a85d3da298b95fceee52c1cf403e93139b1",
-      "download_count": 269,
+      "download_count": 285,
       "created_at": "2026-07-24T22:40:38Z",
       "updated_at": "2026-07-24T22:40:39Z",
       "browser_download_url": "https://github.com/miniflux/v2/releases/download/2.3.3/miniflux-2.3.3-1.0.x86_64.rpm"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 21856418,
       "digest": "sha256:237bf0aed05e86c235b6bcfbad843bfc7bcdd6a628ece672eae3d1e013ddd244",
-      "download_count": 858,
+      "download_count": 861,
       "created_at": "2026-07-24T22:41:12Z",
       "updated_at": "2026-07-24T22:41:18Z",
       "browser_download_url": "https://github.com/miniflux/v2/releases/download/2.3.3/miniflux-linux-amd64"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 87,
       "digest": "sha256:0e2ccf6443ce24ae80d7ebe3511bc849cae35d3f0f1be7de7afd11846ba49ccd",
-      "download_count": 100,
+      "download_count": 102,
       "created_at": "2026-07-24T22:41:12Z",
       "updated_at": "2026-07-24T22:41:12Z",
       "browser_download_url": "https://github.com/miniflux/v2/releases/download/2.3.3/miniflux-linux-amd64.sha256"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 20447394,
       "digest": "sha256:085e34797fcbc1e899f7b9f042228910af214d5c010d9ad4e6289e7fb5ca833c",
-      "download_count": 299,
+      "download_count": 317,
       "created_at": "2026-07-24T22:41:08Z",
       "updated_at": "2026-07-24T22:41:12Z",
       "browser_download_url": "https://github.com/miniflux/v2/releases/download/2.3.3/miniflux-linux-arm64"
@@ -823,7 +823,7 @@
       "state": "uploaded",
       "size": 6522796,
       "digest": "sha256:14712f3852a7e6716676b9a827597febf098da9ae926b3ca82b594ad3d16e759",
-      "download_count": 719,
+      "download_count": 720,
       "created_at": "2026-07-24T22:40:33Z",
       "updated_at": "2026-07-24T22:40:35Z",
       "browser_download_url": "https://github.com/miniflux/v2/releases/download/2.3.3/miniflux_2.3.3_amd64.deb"

@@ -5,13 +5,13 @@ about:
   head: a84533d
   archived: false
   latestVersion: "2.3.3"
-  collectedAt: 2026-09-08T02:53:03Z
+  collectedAt: 2026-09-08T05:41:53Z
 timeline:
   created: 2017-11-20
   lastCommit: 2026-08-24
   lastRelease: 2026-07-24
 popularity:
-  star: 9663
+  star: 9664
   watcher: 68
   fork: 929
   release: 82
@@ -88,7 +88,7 @@ total:
   commit: 3051
 ---
 path: /home/runner/.x-repo/github.com/miniflux/v2
-collectedAt: 2026-09-08T02:53:07Z
+collectedAt: 2026-09-08T05:41:58Z
 loc:
   Go:
     code: 66260
