@@ -7,7 +7,7 @@ Minimalist and opinionated feed reader
 - **Latest release**: `2.3.3` (2026-07-24)
 - **Last commit**: 2026-08-24
 - **License**: Apache-2.0
-- **Stars**: 9668 · **Forks**: 929 · **Open issues**: 1544 · **Contributors**: 298
+- **Stars**: 9670 · **Forks**: 929 · **Open issues**: 1544 · **Contributors**: 298
 
 ## Installation
 
@@ -19,6 +19,6 @@ See <https://x-cmd.com/install/v2> for details.
 
 ## Data
 
-This mirror is auto-maintained by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action). Latest card snapshot: `data/card/260908.yml`. Merged card+release view: `data/latest.report.yml`.
+This mirror is auto-maintained by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action). Latest card snapshot: `data/card/260909.yml`. Merged card+release view: `data/latest.report.yml`.
 
-_Last regenerated: 2026-09-08T11:59:37Z._
+_Last regenerated: 2026-09-09T06:03:44Z._
