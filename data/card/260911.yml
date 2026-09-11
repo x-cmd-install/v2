@@ -7,7 +7,7 @@ about:
   latestVersion: "2.3.3"
   latestRelease: "2.3.3"
   latestPrerelease: "2.0.0-rc1"
-  collectedAt: 2026-09-11T05:43:45Z
+  collectedAt: 2026-09-11T19:08:21Z
 timeline:
   created: 2017-11-20
   lastCommit: 2026-09-11
@@ -15,7 +15,7 @@ timeline:
   lastRelease: 2026-07-24
   lastPrerelease: 2018-01-05
 popularity:
-  star: 9674
+  star: 9676
   watcher: 67
   fork: 929
   release: 82
@@ -92,7 +92,7 @@ total:
   commit: 3053
 ---
 path: /home/runner/.x-repo/github.com/miniflux/v2
-collectedAt: 2026-09-11T05:43:52Z
+collectedAt: 2026-09-11T19:08:25Z
 loc:
   Go:
     code: 66260
