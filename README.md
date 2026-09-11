@@ -48,7 +48,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 9,674 · **Forks**: 929 · **Open issues**: 1,544 · **Contributors**: 298
+- **Stars**: 9,676 · **Forks**: 929 · **Open issues**: 1,544 · **Contributors**: 298
 
 ## Totals (cumulative)
 
@@ -104,4 +104,4 @@ Install metadata for v2 lives in the [x-cmd/install](https://github.com/x-cmd/in
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260911.yml` · 2026-09-11T05:43:57Z._
+_Snapshot: `data/card/260911.yml` · 2026-09-11T19:08:30Z._
