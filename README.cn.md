@@ -4,7 +4,7 @@
 
 Minimalist and opinionated feed reader
 
-[![x-cmd/install — v2 Code Quality Monitoring Repo Card](https://repo.x-cmd.io/v2.svg?lang=zh)](https://x-cmd.com/install/v2)
+[![x-cmd/install — v2 Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/v2.svg?lang=zh)](https://x-cmd.com/install/v2)
 
 ## 安装
 
@@ -48,7 +48,7 @@ x install v2
 
 ## 流行度
 
-- **Star**: 9,720 · **Fork**: 931 · **开放 issue**: 1,547 · **贡献者**: 298
+- **Star**: 9,724 · **Fork**: 932 · **开放 issue**: 1,547 · **贡献者**: 298
 
 ## 累计统计
 
@@ -58,12 +58,12 @@ x install v2
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 0 | 6 | 7 | 1 | 2 | 6 |
-| last60d | 2026-07-24 | 1 | 21 | 9 | 5 | 13 | 21 |
-| 90d | 2026-06-24 | 2 | 56 | 12 | 9 | 19 | 58 |
-| last180d | 2026-03-26 | 5 | 215 | 14 | 27 | 31 | 221 |
-| 360d | 2025-09-27 | 10 | 474 | 14 | 66 | 54 | 499 |
-| last720d | 2024-10-02 | 22 | 1065 | 14 | 206 | 110 | 1197 |
+| 30d | 2026-08-24 | 0 | 6 | 7 | 1 | 2 | 6 |
+| last60d | 2026-07-25 | 0 | 21 | 9 | 4 | 12 | 21 |
+| 90d | 2026-06-25 | 2 | 56 | 12 | 9 | 19 | 58 |
+| last180d | 2026-03-27 | 5 | 212 | 14 | 27 | 31 | 221 |
+| 360d | 2025-09-28 | 10 | 471 | 14 | 66 | 54 | 499 |
+| last720d | 2024-10-03 | 22 | 1065 | 14 | 206 | 110 | 1197 |
 
 ## Release 资产
 
@@ -104,4 +104,4 @@ v2 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索�
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260922.yml` · 2026-09-22T06:04:08Z._
+_数据快照: `data/card/260923.yml` · 2026-09-23T06:36:19Z._

@@ -4,7 +4,7 @@
 
 Minimalist and opinionated feed reader
 
-[![x-cmd/install — v2 Code Quality Monitoring Repo Card](https://repo.x-cmd.io/v2.svg)](https://x-cmd.com/install/v2)
+[![x-cmd/install — v2 Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/v2.svg)](https://x-cmd.com/install/v2)
 
 ## Install
 
@@ -48,7 +48,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 9,720 · **Forks**: 931 · **Open issues**: 1,547 · **Contributors**: 298
+- **Stars**: 9,724 · **Forks**: 932 · **Open issues**: 1,547 · **Contributors**: 298
 
 ## Totals (cumulative)
 
@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 0 | 6 | 7 | 1 | 2 | 6 |
-| last60d | 2026-07-24 | 1 | 21 | 9 | 5 | 13 | 21 |
-| 90d | 2026-06-24 | 2 | 56 | 12 | 9 | 19 | 58 |
-| last180d | 2026-03-26 | 5 | 215 | 14 | 27 | 31 | 221 |
-| 360d | 2025-09-27 | 10 | 474 | 14 | 66 | 54 | 499 |
-| last720d | 2024-10-02 | 22 | 1065 | 14 | 206 | 110 | 1197 |
+| 30d | 2026-08-24 | 0 | 6 | 7 | 1 | 2 | 6 |
+| last60d | 2026-07-25 | 0 | 21 | 9 | 4 | 12 | 21 |
+| 90d | 2026-06-25 | 2 | 56 | 12 | 9 | 19 | 58 |
+| last180d | 2026-03-27 | 5 | 212 | 14 | 27 | 31 | 221 |
+| 360d | 2025-09-28 | 10 | 471 | 14 | 66 | 54 | 499 |
+| last720d | 2024-10-03 | 22 | 1065 | 14 | 206 | 110 | 1197 |
 
 ## Release assets
 
@@ -104,4 +104,4 @@ Install metadata for v2 lives in the [x-cmd/install](https://github.com/x-cmd/in
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260922.yml` · 2026-09-22T06:04:08Z._
+_Snapshot: `data/card/260923.yml` · 2026-09-23T06:36:19Z._
