@@ -26,13 +26,13 @@ x install v2
 
 ## OpenSSF Scorecard 评分
 
-总评分: **6.7 / 10**
+总评分: **6.9 / 10**
 
 评分最低的几项:
 
-- **Code-Review** (3/10) — Found 8/23 approved changesets -- score normalized to 3
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
+- **Branch-Protection** (-1/10) — internal error: error during branchesHandler.setup: internal error: some github tokens can't read classic branch protect…
 
 ## 源代码
 
@@ -48,7 +48,7 @@ x install v2
 
 ## 流行度
 
-- **Star**: 9,769 · **Fork**: 942 · **开放 issue**: 1,549 · **贡献者**: 298
+- **Star**: 9,768 · **Fork**: 942 · **开放 issue**: 1,549 · **贡献者**: 298
 
 ## 累计统计
 
@@ -58,12 +58,12 @@ x install v2
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-05 | 0 | 7 | 9 | 1 | 4 | 6 |
-| last60d | 2026-08-06 | 0 | 19 | 12 | 2 | 10 | 16 |
-| 90d | 2026-07-07 | 1 | 46 | 13 | 7 | 20 | 46 |
-| last180d | 2026-04-08 | 4 | 185 | 17 | 24 | 29 | 193 |
-| 360d | 2025-10-10 | 10 | 461 | 17 | 66 | 53 | 488 |
-| last720d | 2024-10-15 | 22 | 1054 | 17 | 206 | 109 | 1189 |
+| 30d | 2026-09-06 | 0 | 7 | 9 | 1 | 4 | 6 |
+| last60d | 2026-08-07 | 0 | 19 | 12 | 2 | 10 | 16 |
+| 90d | 2026-07-08 | 1 | 44 | 13 | 7 | 20 | 46 |
+| last180d | 2026-04-09 | 4 | 185 | 17 | 24 | 29 | 193 |
+| 360d | 2025-10-11 | 10 | 460 | 17 | 66 | 53 | 488 |
+| last720d | 2024-10-16 | 22 | 1053 | 17 | 205 | 109 | 1186 |
 
 ## Release 资产
 
@@ -104,4 +104,4 @@ v2 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索�
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261005.yml` · 2026-10-05T06:38:24Z._
+_数据快照: `data/card/261006.yml` · 2026-10-06T07:26:05Z._

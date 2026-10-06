@@ -26,13 +26,13 @@ Total: **97,668** lines of code across **518** files in the top 5 languages.
 
 ## OpenSSF Scorecard
 
-Overall score: **6.7 / 10**
+Overall score: **6.9 / 10**
 
 Lowest-scoring checks:
 
-- **Code-Review** (3/10) — Found 8/23 approved changesets -- score normalized to 3
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
+- **Branch-Protection** (-1/10) — internal error: error during branchesHandler.setup: internal error: some github tokens can't read classic branch protect…
 
 ## Source
 
@@ -48,7 +48,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 9,769 · **Forks**: 942 · **Open issues**: 1,549 · **Contributors**: 298
+- **Stars**: 9,768 · **Forks**: 942 · **Open issues**: 1,549 · **Contributors**: 298
 
 ## Totals (cumulative)
 
@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-05 | 0 | 7 | 9 | 1 | 4 | 6 |
-| last60d | 2026-08-06 | 0 | 19 | 12 | 2 | 10 | 16 |
-| 90d | 2026-07-07 | 1 | 46 | 13 | 7 | 20 | 46 |
-| last180d | 2026-04-08 | 4 | 185 | 17 | 24 | 29 | 193 |
-| 360d | 2025-10-10 | 10 | 461 | 17 | 66 | 53 | 488 |
-| last720d | 2024-10-15 | 22 | 1054 | 17 | 206 | 109 | 1189 |
+| 30d | 2026-09-06 | 0 | 7 | 9 | 1 | 4 | 6 |
+| last60d | 2026-08-07 | 0 | 19 | 12 | 2 | 10 | 16 |
+| 90d | 2026-07-08 | 1 | 44 | 13 | 7 | 20 | 46 |
+| last180d | 2026-04-09 | 4 | 185 | 17 | 24 | 29 | 193 |
+| 360d | 2025-10-11 | 10 | 460 | 17 | 66 | 53 | 488 |
+| last720d | 2024-10-16 | 22 | 1053 | 17 | 205 | 109 | 1186 |
 
 ## Release assets
 
@@ -104,4 +104,4 @@ Install metadata for v2 lives in the [x-cmd/install](https://github.com/x-cmd/in
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261005.yml` · 2026-10-05T06:38:24Z._
+_Snapshot: `data/card/261006.yml` · 2026-10-06T07:26:05Z._
