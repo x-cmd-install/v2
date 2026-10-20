@@ -14,13 +14,13 @@ x install v2
 
 ## 代码洞察
 
-合计: **98,355** 行代码（覆盖前 5 种语言、共 **522** 个文件）。
+合计: **99,240** 行代码（覆盖前 5 种语言、共 **524** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Go | 67,097 | 3,473 | 11,462 | 427 |
-| Json | 17,337 | 0 | 0 | 26 |
-| Html | 5,542 | 125 | 1,058 | 45 |
+| Go | 67,873 | 3,480 | 11,583 | 429 |
+| Json | 17,429 | 0 | 0 | 26 |
+| Html | 5,559 | 125 | 1,063 | 45 |
 | Xml | 4,986 | 1 | 95 | 18 |
 | Css | 1,532 | 38 | 354 | 6 |
 
@@ -42,58 +42,58 @@ x install v2
 
 ## 发布
 
-- **最新版本**: `2.3.3` (2026-07-24)
+- **最新版本**: `2.3.4` (2026-10-20)
 - **最近提交**: 2026-10-19
 - **Release 含资产**: 25 个
 
 ## 流行度
 
-- **Star**: 9,806 · **Fork**: 949 · **开放 issue**: 1,551 · **贡献者**: 300
+- **Star**: 9,811 · **Fork**: 949 · **开放 issue**: 1,551 · **贡献者**: 301
 
 ## 累计统计
 
-- **发布数**: 82 · **已合并 PR**: 2363 · **开放 PR**: 21 · **已关闭 issue**: 1286 · **开放 issue**: 265 · **提交数**: 3071
+- **发布数**: 83 · **已合并 PR**: 2368 · **开放 PR**: 22 · **已关闭 issue**: 1287 · **开放 issue**: 264 · **提交数**: 3076
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-19 | 0 | 7 | 15 | 1 | 3 | 8 |
-| last60d | 2026-08-20 | 0 | 17 | 19 | 3 | 5 | 18 |
-| 90d | 2026-07-21 | 1 | 37 | 20 | 7 | 16 | 34 |
-| last180d | 2026-04-22 | 4 | 177 | 21 | 24 | 25 | 190 |
-| 360d | 2025-10-24 | 9 | 462 | 21 | 63 | 51 | 485 |
-| last720d | 2024-10-29 | 22 | 1052 | 21 | 200 | 107 | 1185 |
+| 30d | 2026-09-20 | 1 | 12 | 15 | 2 | 2 | 13 |
+| last60d | 2026-08-21 | 1 | 22 | 20 | 4 | 4 | 23 |
+| 90d | 2026-07-22 | 2 | 36 | 21 | 8 | 15 | 39 |
+| last180d | 2026-04-23 | 5 | 182 | 22 | 25 | 24 | 195 |
+| 360d | 2025-10-25 | 10 | 467 | 22 | 62 | 50 | 490 |
+| last720d | 2024-10-30 | 23 | 1057 | 22 | 198 | 106 | 1188 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [miniflux-2.3.3-1.0.x86_64.rpm](https://github.com/miniflux/v2/releases/download/2.3.3/miniflux-2.3.3-1.0.x86_64.rpm) | 6.8 MiB | `runtime/rpm/x86_64` |
-| [miniflux-darwin-amd64](https://github.com/miniflux/v2/releases/download/2.3.3/miniflux-darwin-amd64) | 21.3 MiB | `native/darwin/x64` |
-| [miniflux-darwin-amd64.sha256](https://github.com/miniflux/v2/releases/download/2.3.3/miniflux-darwin-amd64.sha256) | 88 B | `native/darwin/x64` |
-| [miniflux-darwin-arm64](https://github.com/miniflux/v2/releases/download/2.3.3/miniflux-darwin-arm64) | 20.1 MiB | `native/darwin/arm64` |
-| [miniflux-darwin-arm64.sha256](https://github.com/miniflux/v2/releases/download/2.3.3/miniflux-darwin-arm64.sha256) | 88 B | `native/darwin/arm64` |
-| [miniflux-freebsd-amd64](https://github.com/miniflux/v2/releases/download/2.3.3/miniflux-freebsd-amd64) | 20.8 MiB | `other` |
-| [miniflux-freebsd-amd64.sha256](https://github.com/miniflux/v2/releases/download/2.3.3/miniflux-freebsd-amd64.sha256) | 89 B | `other` |
-| [miniflux-linux-amd64](https://github.com/miniflux/v2/releases/download/2.3.3/miniflux-linux-amd64) | 20.8 MiB | `native/linux/x64` |
-| [miniflux-linux-amd64.sha256](https://github.com/miniflux/v2/releases/download/2.3.3/miniflux-linux-amd64.sha256) | 87 B | `native/linux/x64` |
-| [miniflux-linux-arm64](https://github.com/miniflux/v2/releases/download/2.3.3/miniflux-linux-arm64) | 19.5 MiB | `native/linux/arm64` |
-| [miniflux-linux-arm64.sha256](https://github.com/miniflux/v2/releases/download/2.3.3/miniflux-linux-arm64.sha256) | 87 B | `native/linux/arm64` |
-| [miniflux-linux-armv5](https://github.com/miniflux/v2/releases/download/2.3.3/miniflux-linux-armv5) | 20.1 MiB | `native/linux/arm` |
-| [miniflux-linux-armv5.sha256](https://github.com/miniflux/v2/releases/download/2.3.3/miniflux-linux-armv5.sha256) | 87 B | `native/linux/arm` |
-| [miniflux-linux-armv6](https://github.com/miniflux/v2/releases/download/2.3.3/miniflux-linux-armv6) | 20.0 MiB | `native/linux/arm` |
-| [miniflux-linux-armv6.sha256](https://github.com/miniflux/v2/releases/download/2.3.3/miniflux-linux-armv6.sha256) | 87 B | `native/linux/arm` |
-| [miniflux-linux-armv7](https://github.com/miniflux/v2/releases/download/2.3.3/miniflux-linux-armv7) | 20.0 MiB | `native/linux/arm` |
-| [miniflux-linux-armv7.sha256](https://github.com/miniflux/v2/releases/download/2.3.3/miniflux-linux-armv7.sha256) | 87 B | `native/linux/arm` |
-| [miniflux-linux-riscv64](https://github.com/miniflux/v2/releases/download/2.3.3/miniflux-linux-riscv64) | 18.8 MiB | `native/linux/riscv64` |
-| [miniflux-linux-riscv64.sha256](https://github.com/miniflux/v2/releases/download/2.3.3/miniflux-linux-riscv64.sha256) | 89 B | `native/linux/riscv64` |
-| [miniflux-openbsd-amd64](https://github.com/miniflux/v2/releases/download/2.3.3/miniflux-openbsd-amd64) | 20.8 MiB | `other` |
-| [miniflux-openbsd-amd64.sha256](https://github.com/miniflux/v2/releases/download/2.3.3/miniflux-openbsd-amd64.sha256) | 89 B | `other` |
-| [miniflux_2.3.3_amd64.deb](https://github.com/miniflux/v2/releases/download/2.3.3/miniflux_2.3.3_amd64.deb) | 6.2 MiB | `runtime/deb/amd64` |
-| [miniflux_2.3.3_arm64.deb](https://github.com/miniflux/v2/releases/download/2.3.3/miniflux_2.3.3_arm64.deb) | 5.4 MiB | `runtime/deb/arm64` |
-| [miniflux_2.3.3_armhf.deb](https://github.com/miniflux/v2/releases/download/2.3.3/miniflux_2.3.3_armhf.deb) | 5.3 MiB | `runtime/deb/armhf` |
-| [miniflux_2.3.3_riscv64.deb](https://github.com/miniflux/v2/releases/download/2.3.3/miniflux_2.3.3_riscv64.deb) | 5.6 MiB | `runtime/deb/riscv64` |
+| [miniflux-2.3.4-1.0.x86_64.rpm](https://github.com/miniflux/v2/releases/download/2.3.4/miniflux-2.3.4-1.0.x86_64.rpm) | 7.7 MiB | `runtime/rpm/x86_64` |
+| [miniflux-darwin-amd64](https://github.com/miniflux/v2/releases/download/2.3.4/miniflux-darwin-amd64) | 23.1 MiB | `native/darwin/x64` |
+| [miniflux-darwin-amd64.sha256](https://github.com/miniflux/v2/releases/download/2.3.4/miniflux-darwin-amd64.sha256) | 88 B | `native/darwin/x64` |
+| [miniflux-darwin-arm64](https://github.com/miniflux/v2/releases/download/2.3.4/miniflux-darwin-arm64) | 21.7 MiB | `native/darwin/arm64` |
+| [miniflux-darwin-arm64.sha256](https://github.com/miniflux/v2/releases/download/2.3.4/miniflux-darwin-arm64.sha256) | 88 B | `native/darwin/arm64` |
+| [miniflux-freebsd-amd64](https://github.com/miniflux/v2/releases/download/2.3.4/miniflux-freebsd-amd64) | 22.6 MiB | `other` |
+| [miniflux-freebsd-amd64.sha256](https://github.com/miniflux/v2/releases/download/2.3.4/miniflux-freebsd-amd64.sha256) | 89 B | `other` |
+| [miniflux-linux-amd64](https://github.com/miniflux/v2/releases/download/2.3.4/miniflux-linux-amd64) | 22.6 MiB | `native/linux/x64` |
+| [miniflux-linux-amd64.sha256](https://github.com/miniflux/v2/releases/download/2.3.4/miniflux-linux-amd64.sha256) | 87 B | `native/linux/x64` |
+| [miniflux-linux-arm64](https://github.com/miniflux/v2/releases/download/2.3.4/miniflux-linux-arm64) | 21.2 MiB | `native/linux/arm64` |
+| [miniflux-linux-arm64.sha256](https://github.com/miniflux/v2/releases/download/2.3.4/miniflux-linux-arm64.sha256) | 87 B | `native/linux/arm64` |
+| [miniflux-linux-armv5](https://github.com/miniflux/v2/releases/download/2.3.4/miniflux-linux-armv5) | 22.1 MiB | `native/linux/arm` |
+| [miniflux-linux-armv5.sha256](https://github.com/miniflux/v2/releases/download/2.3.4/miniflux-linux-armv5.sha256) | 87 B | `native/linux/arm` |
+| [miniflux-linux-armv6](https://github.com/miniflux/v2/releases/download/2.3.4/miniflux-linux-armv6) | 22.0 MiB | `native/linux/arm` |
+| [miniflux-linux-armv6.sha256](https://github.com/miniflux/v2/releases/download/2.3.4/miniflux-linux-armv6.sha256) | 87 B | `native/linux/arm` |
+| [miniflux-linux-armv7](https://github.com/miniflux/v2/releases/download/2.3.4/miniflux-linux-armv7) | 22.0 MiB | `native/linux/arm` |
+| [miniflux-linux-armv7.sha256](https://github.com/miniflux/v2/releases/download/2.3.4/miniflux-linux-armv7.sha256) | 87 B | `native/linux/arm` |
+| [miniflux-linux-riscv64](https://github.com/miniflux/v2/releases/download/2.3.4/miniflux-linux-riscv64) | 20.3 MiB | `native/linux/riscv64` |
+| [miniflux-linux-riscv64.sha256](https://github.com/miniflux/v2/releases/download/2.3.4/miniflux-linux-riscv64.sha256) | 89 B | `native/linux/riscv64` |
+| [miniflux-openbsd-amd64](https://github.com/miniflux/v2/releases/download/2.3.4/miniflux-openbsd-amd64) | 22.6 MiB | `other` |
+| [miniflux-openbsd-amd64.sha256](https://github.com/miniflux/v2/releases/download/2.3.4/miniflux-openbsd-amd64.sha256) | 89 B | `other` |
+| [miniflux_2.3.4_amd64.deb](https://github.com/miniflux/v2/releases/download/2.3.4/miniflux_2.3.4_amd64.deb) | 7.1 MiB | `runtime/deb/amd64` |
+| [miniflux_2.3.4_arm64.deb](https://github.com/miniflux/v2/releases/download/2.3.4/miniflux_2.3.4_arm64.deb) | 6.2 MiB | `runtime/deb/arm64` |
+| [miniflux_2.3.4_armhf.deb](https://github.com/miniflux/v2/releases/download/2.3.4/miniflux_2.3.4_armhf.deb) | 6.1 MiB | `runtime/deb/armhf` |
+| [miniflux_2.3.4_riscv64.deb](https://github.com/miniflux/v2/releases/download/2.3.4/miniflux_2.3.4_riscv64.deb) | 6.5 MiB | `runtime/deb/riscv64` |
 
 ## 改进这些数据
 
@@ -104,4 +104,4 @@ v2 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索�
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261019.yml` · 2026-10-19T05:41:13Z._
+_数据快照: `data/card/261020.yml` · 2026-10-20T05:40:44Z._
