@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 8118760,
       "digest": "sha256:2b3ca3eb42122e7fa8d7547559a0a5e58d30de49e66dfa41334db2648b2f461d",
-      "download_count": 10,
+      "download_count": 11,
       "created_at": "2026-10-20T01:06:32Z",
       "updated_at": "2026-10-20T01:06:34Z",
       "browser_download_url": "https://github.com/miniflux/v2/releases/download/2.3.4/miniflux-2.3.4-1.0.x86_64.rpm"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 24210880,
       "digest": "sha256:3a88b853c605a2971177e89123e3e0908a6d25099a85ff10d41d4abbf61c6e19",
-      "download_count": 20,
+      "download_count": 24,
       "created_at": "2026-10-20T01:08:02Z",
       "updated_at": "2026-10-20T01:08:05Z",
       "browser_download_url": "https://github.com/miniflux/v2/releases/download/2.3.4/miniflux-darwin-amd64"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 23654570,
       "digest": "sha256:06db7932e7cae76fff937dc83e8d14ce4dd7f5f10d76f6c82b782da55163b411",
-      "download_count": 8,
+      "download_count": 10,
       "created_at": "2026-10-20T01:07:56Z",
       "updated_at": "2026-10-20T01:07:59Z",
       "browser_download_url": "https://github.com/miniflux/v2/releases/download/2.3.4/miniflux-freebsd-amd64"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 23716000,
       "digest": "sha256:33f43a73f0b2b0dfa1f6cb30dd37c9c4b04a8c61785239f9ead578683ea0c175",
-      "download_count": 63,
+      "download_count": 114,
       "created_at": "2026-10-20T01:07:53Z",
       "updated_at": "2026-10-20T01:07:56Z",
       "browser_download_url": "https://github.com/miniflux/v2/releases/download/2.3.4/miniflux-linux-amd64"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 87,
       "digest": "sha256:d638abacf2788d397a19f521cafee4f0fe88302463f7aaa44cc9f39795a70eda",
-      "download_count": 24,
+      "download_count": 34,
       "created_at": "2026-10-20T01:07:53Z",
       "updated_at": "2026-10-20T01:07:53Z",
       "browser_download_url": "https://github.com/miniflux/v2/releases/download/2.3.4/miniflux-linux-amd64.sha256"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 22216864,
       "digest": "sha256:b9a2cbcb7dd26b0a4f27dda64c4b8e62899bd0ee106bf6e2c429b54a3ca669d1",
-      "download_count": 14,
+      "download_count": 18,
       "created_at": "2026-10-20T01:07:51Z",
       "updated_at": "2026-10-20T01:07:53Z",
       "browser_download_url": "https://github.com/miniflux/v2/releases/download/2.3.4/miniflux-linux-arm64"
@@ -823,7 +823,7 @@
       "state": "uploaded",
       "size": 7434928,
       "digest": "sha256:3b681ef32f55acb51fecfc87219bfd658a0ee5b9cd49dd26e8e0023363f9dfe2",
-      "download_count": 61,
+      "download_count": 89,
       "created_at": "2026-10-20T01:06:27Z",
       "updated_at": "2026-10-20T01:06:29Z",
       "browser_download_url": "https://github.com/miniflux/v2/releases/download/2.3.4/miniflux_2.3.4_amd64.deb"
@@ -859,7 +859,7 @@
       "state": "uploaded",
       "size": 6456796,
       "digest": "sha256:0dcff4b3368b80b808c9d17ed13b33e26808e74aaff5490b306a1cfe57cb5208",
-      "download_count": 7,
+      "download_count": 9,
       "created_at": "2026-10-20T01:06:29Z",
       "updated_at": "2026-10-20T01:06:30Z",
       "browser_download_url": "https://github.com/miniflux/v2/releases/download/2.3.4/miniflux_2.3.4_arm64.deb"
@@ -942,8 +942,8 @@
   "body": "\r\n### New features\r\n\r\n- Added Gotify push notification support.\r\n- Added Steam scraper rules.\r\n- Added validation with helpful error messages when saving rewrite rules.\r\n\r\n### Performance improvements\r\n\r\n- Reduced database storage used by enclosure and entry indexes.\r\n- Reduced memory used by internal data structures.\r\n\r\n### Security\r\n\r\n- Blocked reserved IP address ranges to further protect against server-side request forgery.\r\n- Hardened WebAuthn redirects against open-redirect attacks, including redirect URLs containing surrounding whitespace.\r\n- Prevented per-feed proxy URLs from bypassing private-network restrictions by default. **Set `FETCHER_ALLOW_PRIVATE_FEED_PROXY=1` to retain access to private per-feed proxies.**\r\n- Enforced `DISABLE_LOCAL_AUTH` for API password authentication and password changes; API clients must use an API key when local authentication is disabled.\r\n- Rejected Google Reader authentication tokens when no password is configured.\r\n- Restricted embedded iframe URLs to web schemes and tightened YouTube hostname validation.\r\n\r\n### Bug fixes\r\n\r\n- Added timeouts to the ACME challenge listener.\r\n- Fixed response compression negotiation to consistently prefer the server's configured encoding order.\r\n- Improved Karakeep errors when saving an entry fails by reporting the HTTP status.\r\n- Returned to the first unread page when marking entries as read leaves the current feed or category page empty.\r\n- Restored support for proxies configured through `HTTP_PROXY` or `HTTPS_PROXY`, including across redirects.\r\n- Returned a validation error instead of crashing when creating or importing feeds for users without a category.\r\n- Preserved the requested redirect after passkey login.\r\n- Increased the Google Reader item-ID limit to 10,000.\r\n- Returned a bad-request response instead of crashing on POST requests to static asset paths.\r\n- Improved accessibility by adding descriptive names to documentation links.\r\n- Improved error logging and responses for failed database existence checks and shared-entry lookups.\r\n\r\n### Localization\r\n\r\n- Updated Polish (`pl_PL`) translations.\r\n\r\n### Documentation\r\n\r\n- Clarified the Unix socket permissions used with `LISTEN_ADDR`.\r\n\r\n### Dependencies\r\n\r\n- Updated several Go modules and GitHub Actions dependencies.\r\n\r\n---\r\n\r\nAs always, thank you to all contributors who helped improve Miniflux in this release.\r\n",
   "reactions": {
     "url": "https://api.github.com/repos/miniflux/v2/releases/417900161/reactions",
-    "total_count": 5,
-    "+1": 2,
+    "total_count": 6,
+    "+1": 3,
     "-1": 0,
     "laugh": 0,
     "hooray": 1,
