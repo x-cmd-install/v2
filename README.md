@@ -14,11 +14,11 @@ x install v2
 
 ## Code insight
 
-Total: **99,827** lines of code across **528** files in the top 5 languages.
+Total: **99,923** lines of code across **529** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 68,412 | 3,513 | 11,684 | 433 |
+| Go | 68,508 | 3,523 | 11,706 | 434 |
 | Json | 17,475 | 0 | 0 | 26 |
 | Html | 5,559 | 125 | 1,063 | 45 |
 | Xml | 4,986 | 1 | 95 | 18 |
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `2.3.4` (2026-10-20)
-- **Last commit**: 2026-10-25
+- **Last commit**: 2026-10-26
 - **Assets in release**: 25
 
 ## Popularity
 
-- **Stars**: 9,830 · **Forks**: 951 · **Open issues**: 1,553 · **Contributors**: 304
+- **Stars**: 9,836 · **Forks**: 952 · **Open issues**: 1,555 · **Contributors**: 304
 
 ## Totals (cumulative)
 
-- **Releases**: 83 · **Merged PRs**: 2379 · **Open PRs**: 15 · **Closed issues**: 1290 · **Open issues**: 263 · **Commits**: 3089
+- **Releases**: 83 · **Merged PRs**: 2381 · **Open PRs**: 13 · **Closed issues**: 1290 · **Open issues**: 265 · **Commits**: 3092
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-25 | 1 | 22 | 7 | 3 | 2 | 24 |
-| last60d | 2026-08-26 | 1 | 30 | 14 | 5 | 4 | 32 |
-| 90d | 2026-07-27 | 1 | 47 | 14 | 9 | 12 | 47 |
-| last180d | 2026-04-28 | 5 | 191 | 15 | 26 | 24 | 196 |
-| 360d | 2025-10-30 | 10 | 471 | 15 | 62 | 48 | 500 |
-| last720d | 2024-11-04 | 22 | 1064 | 15 | 200 | 104 | 1195 |
+| 30d | 2026-09-26 | 1 | 24 | 5 | 3 | 4 | 27 |
+| last60d | 2026-08-27 | 1 | 31 | 11 | 5 | 6 | 35 |
+| 90d | 2026-07-28 | 1 | 49 | 12 | 9 | 14 | 50 |
+| last180d | 2026-04-29 | 5 | 192 | 13 | 26 | 26 | 199 |
+| 360d | 2025-10-31 | 10 | 473 | 13 | 62 | 50 | 503 |
+| last720d | 2024-11-05 | 22 | 1066 | 13 | 200 | 106 | 1197 |
 
 ## Release assets
 
@@ -104,4 +104,4 @@ Install metadata for v2 lives in the [x-cmd/install](https://github.com/x-cmd/in
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261025.yml` · 2026-10-25T05:29:23Z._
+_Snapshot: `data/card/261026.yml` · 2026-10-26T05:35:23Z._
