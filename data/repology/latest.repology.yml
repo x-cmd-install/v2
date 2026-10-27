@@ -2,9 +2,9 @@
   srcname: v2
   binname: v2
   visiblename: v2
-  version: 0.18.3
-  origversion: 0.18.3-1
-  status: outdated
+  version: 0.18.5
+  origversion: 0.18.5-1
+  status: unique
   summary: A local-first, privacy oriented rich text editor with Git-style version control
   maintainers:
     - alerque@aur
@@ -14,8 +14,8 @@
   srcname: v2-bin
   binname: v2-bin
   visiblename: v2-bin
-  version: 0.18.4
-  origversion: 0.18.4-1
+  version: 0.18.5
+  origversion: 0.18.5-1
   status: unique
   summary: A local-first, privacy oriented rich text editor with Git-style version control
   maintainers:
