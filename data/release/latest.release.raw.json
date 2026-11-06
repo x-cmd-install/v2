@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 8225063,
       "digest": "sha256:ed2b23f1910ded281ff9be7d4b7826a1e7fa8045bbc50ae312fbc331d114e982",
-      "download_count": 14,
+      "download_count": 15,
       "created_at": "2026-11-02T04:17:33Z",
       "updated_at": "2026-11-02T04:17:35Z",
       "browser_download_url": "https://github.com/miniflux/v2/releases/download/2.3.5/miniflux-2.3.5-1.0.x86_64.rpm"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 24488352,
       "digest": "sha256:171c3ae144c0cb0bffb88b59bb69ad46528ed941c30adaefa4f9f95fb091f38e",
-      "download_count": 33,
+      "download_count": 35,
       "created_at": "2026-11-02T03:42:22Z",
       "updated_at": "2026-11-02T03:42:24Z",
       "browser_download_url": "https://github.com/miniflux/v2/releases/download/2.3.5/miniflux-darwin-amd64"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 88,
       "digest": "sha256:7c09ed6f49989985b172c4eb41334672e37c2fce119c960b5cf9d55b3d57d8db",
-      "download_count": 11,
+      "download_count": 12,
       "created_at": "2026-11-02T03:42:21Z",
       "updated_at": "2026-11-02T03:42:22Z",
       "browser_download_url": "https://github.com/miniflux/v2/releases/download/2.3.5/miniflux-darwin-amd64.sha256"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 23056706,
       "digest": "sha256:717f07dfa84349d31ec73e35c72ab57612c9abb45c99576ff80376edc66c5015",
-      "download_count": 23,
+      "download_count": 31,
       "created_at": "2026-11-02T03:42:19Z",
       "updated_at": "2026-11-02T03:42:21Z",
       "browser_download_url": "https://github.com/miniflux/v2/releases/download/2.3.5/miniflux-darwin-arm64"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 88,
       "digest": "sha256:8527040cf66c85d2492217751305345e56c47a386dcc2390f7e8e6b56eaaaef6",
-      "download_count": 12,
+      "download_count": 14,
       "created_at": "2026-11-02T03:42:19Z",
       "updated_at": "2026-11-02T03:42:19Z",
       "browser_download_url": "https://github.com/miniflux/v2/releases/download/2.3.5/miniflux-darwin-arm64.sha256"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 23986336,
       "digest": "sha256:19cddcf53c9a052ee5c1855b4204b53719f89a51143f69f1a264388e98e08cfd",
-      "download_count": 139,
+      "download_count": 170,
       "created_at": "2026-11-02T03:42:13Z",
       "updated_at": "2026-11-02T03:42:16Z",
       "browser_download_url": "https://github.com/miniflux/v2/releases/download/2.3.5/miniflux-linux-amd64"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 87,
       "digest": "sha256:159aa5b95028041772d4e9eaad5dc24e880e3914fe65adba2302b23270c59c9d",
-      "download_count": 40,
+      "download_count": 49,
       "created_at": "2026-11-02T03:42:13Z",
       "updated_at": "2026-11-02T03:42:13Z",
       "browser_download_url": "https://github.com/miniflux/v2/releases/download/2.3.5/miniflux-linux-amd64.sha256"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 22479008,
       "digest": "sha256:7b6e457d4122c6afc269b38f57ebae5aef19e87a61bb3a1e4ba0f7c8fcd708d7",
-      "download_count": 41,
+      "download_count": 48,
       "created_at": "2026-11-02T03:42:10Z",
       "updated_at": "2026-11-02T03:42:13Z",
       "browser_download_url": "https://github.com/miniflux/v2/releases/download/2.3.5/miniflux-linux-arm64"
@@ -427,7 +427,7 @@
       "state": "uploaded",
       "size": 87,
       "digest": "sha256:8536af3d5c25806e4e5e225dca319fe391c3309eae3ed7d7acbb708394f14ecd",
-      "download_count": 12,
+      "download_count": 13,
       "created_at": "2026-11-02T03:42:10Z",
       "updated_at": "2026-11-02T03:42:10Z",
       "browser_download_url": "https://github.com/miniflux/v2/releases/download/2.3.5/miniflux-linux-arm64.sha256"
@@ -463,7 +463,7 @@
       "state": "uploaded",
       "size": 23396512,
       "digest": "sha256:cbd2dcc05d3ebcbfb79d4376111094ddb7bc2788d966dab000c75cdceade1984",
-      "download_count": 15,
+      "download_count": 16,
       "created_at": "2026-11-02T03:42:07Z",
       "updated_at": "2026-11-02T03:42:10Z",
       "browser_download_url": "https://github.com/miniflux/v2/releases/download/2.3.5/miniflux-linux-armv5"
@@ -535,7 +535,7 @@
       "state": "uploaded",
       "size": 23265440,
       "digest": "sha256:81641cc5dd8ebbe7026d9d987aaf2350e72d784bd3fee6e1fc80a215098a856f",
-      "download_count": 16,
+      "download_count": 17,
       "created_at": "2026-11-02T03:42:04Z",
       "updated_at": "2026-11-02T03:42:07Z",
       "browser_download_url": "https://github.com/miniflux/v2/releases/download/2.3.5/miniflux-linux-armv6"
@@ -607,7 +607,7 @@
       "state": "uploaded",
       "size": 23265440,
       "digest": "sha256:c5e32de2a98dd30da97c31121a0244ee0e8718a1d0012733746eb619e2103cb9",
-      "download_count": 16,
+      "download_count": 17,
       "created_at": "2026-11-02T03:42:01Z",
       "updated_at": "2026-11-02T03:42:04Z",
       "browser_download_url": "https://github.com/miniflux/v2/releases/download/2.3.5/miniflux-linux-armv7"
@@ -823,7 +823,7 @@
       "state": "uploaded",
       "size": 7539216,
       "digest": "sha256:c273431e39260635dd3217cc7c5c467e2ffa02bb607c00d0bd8814c50e7010e8",
-      "download_count": 110,
+      "download_count": 124,
       "created_at": "2026-11-02T04:28:20Z",
       "updated_at": "2026-11-02T04:28:21Z",
       "browser_download_url": "https://github.com/miniflux/v2/releases/download/2.3.5/miniflux_2.3.5_amd64.deb"
@@ -859,7 +859,7 @@
       "state": "uploaded",
       "size": 6546320,
       "digest": "sha256:12319ba5c58571d17c609ebea6ba68378b398785ded6d5d291ec52eb4e29623e",
-      "download_count": 13,
+      "download_count": 15,
       "created_at": "2026-11-02T04:28:19Z",
       "updated_at": "2026-11-02T04:28:20Z",
       "browser_download_url": "https://github.com/miniflux/v2/releases/download/2.3.5/miniflux_2.3.5_arm64.deb"
