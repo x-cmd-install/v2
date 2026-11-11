@@ -14,7 +14,7 @@ x install v2
 
 ## Code insight
 
-Total: **101,428** lines of code across **538** files in the top 5 languages.
+Total: **101,432** lines of code across **538** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `2.3.5` (2026-11-02)
-- **Last commit**: 2026-11-07
+- **Last commit**: 2026-11-11
 - **Assets in release**: 25
 
 ## Popularity
 
-- **Stars**: 9,910 · **Forks**: 967 · **Open issues**: 1,560 · **Contributors**: 306
+- **Stars**: 9,917 · **Forks**: 968 · **Open issues**: 1,560 · **Contributors**: 307
 
 ## Totals (cumulative)
 
-- **Releases**: 84 · **Merged PRs**: 2406 · **Open PRs**: 20 · **Closed issues**: 1292 · **Open issues**: 268 · **Commits**: 3119
+- **Releases**: 84 · **Merged PRs**: 2407 · **Open PRs**: 19 · **Closed issues**: 1292 · **Open issues**: 268 · **Commits**: 3120
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-11 | 2 | 46 | 8 | 1 | 8 | 43 |
-| last60d | 2026-09-11 | 2 | 53 | 18 | 6 | 10 | 58 |
-| 90d | 2026-08-12 | 2 | 64 | 19 | 7 | 13 | 70 |
-| last180d | 2026-05-14 | 6 | 168 | 19 | 27 | 27 | 182 |
-| 360d | 2025-11-15 | 11 | 486 | 20 | 57 | 51 | 518 |
-| last720d | 2024-11-20 | 22 | 1079 | 20 | 196 | 108 | 1213 |
+| 30d | 2026-10-12 | 2 | 43 | 7 | 1 | 8 | 44 |
+| last60d | 2026-09-12 | 2 | 51 | 17 | 6 | 10 | 59 |
+| 90d | 2026-08-13 | 2 | 65 | 18 | 7 | 13 | 71 |
+| last180d | 2026-05-15 | 6 | 168 | 18 | 27 | 26 | 183 |
+| 360d | 2025-11-16 | 11 | 486 | 19 | 57 | 51 | 519 |
+| last720d | 2024-11-21 | 22 | 1080 | 19 | 195 | 108 | 1214 |
 
 ## Release assets
 
@@ -104,4 +104,4 @@ Install metadata for v2 lives in the [x-cmd/install](https://github.com/x-cmd/in
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261110.yml` · 2026-11-10T08:40:05Z._
+_Snapshot: `data/card/261111.yml` · 2026-11-11T07:32:39Z._
