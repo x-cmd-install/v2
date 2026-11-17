@@ -24,16 +24,6 @@ x install v2
 | Xml | 4,986 | 1 | 95 | 18 |
 | Css | 1,532 | 38 | 354 | 6 |
 
-## OpenSSF Scorecard 评分
-
-总评分: **7.5 / 10**
-
-评分最低的几项:
-
-- **Code-Review** (1/10) — Found 4/24 approved changesets -- score normalized to 1
-- **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
-- **Branch-Protection** (-1/10) — internal error: error during branchesHandler.setup: internal error: some github tokens can't read classic branch protect…
-
 ## 源代码
 
 - **上游仓库**: <https://github.com/miniflux/v2>
@@ -48,7 +38,7 @@ x install v2
 
 ## 流行度
 
-- **Star**: 9,942 · **Fork**: 970 · **开放 issue**: 1,561 · **贡献者**: 307
+- **Star**: 9,950 · **Fork**: 971 · **开放 issue**: 1,561 · **贡献者**: 307
 
 ## 累计统计
 
@@ -58,12 +48,12 @@ x install v2
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-17 | 2 | 38 | 8 | 1 | 9 | 32 |
-| last60d | 2026-09-17 | 2 | 51 | 16 | 5 | 10 | 59 |
-| 90d | 2026-08-18 | 2 | 63 | 20 | 6 | 12 | 69 |
-| last180d | 2026-05-20 | 5 | 163 | 20 | 24 | 27 | 173 |
-| 360d | 2025-11-21 | 11 | 484 | 21 | 56 | 52 | 520 |
-| last720d | 2024-11-26 | 22 | 1077 | 21 | 193 | 109 | 1216 |
+| 30d | 2026-10-18 | 2 | 38 | 8 | 1 | 9 | 32 |
+| last60d | 2026-09-18 | 2 | 51 | 16 | 4 | 10 | 59 |
+| 90d | 2026-08-19 | 2 | 62 | 20 | 6 | 12 | 69 |
+| last180d | 2026-05-21 | 5 | 161 | 20 | 24 | 27 | 173 |
+| 360d | 2025-11-22 | 11 | 484 | 21 | 56 | 52 | 520 |
+| last720d | 2024-11-27 | 22 | 1077 | 21 | 193 | 109 | 1216 |
 
 ## Release 资产
 
@@ -104,4 +94,4 @@ v2 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索�
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261116.yml` · 2026-11-16T08:28:46Z._
+_数据快照: `data/card/261117.yml` · 2026-11-17T10:47:38Z._
