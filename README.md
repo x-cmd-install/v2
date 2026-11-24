@@ -14,15 +14,25 @@ x install v2
 
 ## Code insight
 
-Total: **102,223** lines of code across **541** files in the top 5 languages.
+Total: **102,383** lines of code across **545** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 69,979 | 3,604 | 11,938 | 444 |
+| Go | 70,143 | 3,696 | 11,992 | 448 |
 | Json | 18,254 | 0 | 0 | 27 |
-| Html | 5,583 | 125 | 1,067 | 46 |
+| Html | 5,579 | 125 | 1,067 | 46 |
 | Xml | 4,986 | 1 | 95 | 18 |
 | Css | 1,532 | 38 | 354 | 6 |
+
+## OpenSSF Scorecard
+
+Overall score: **7.6 / 10**
+
+Lowest-scoring checks:
+
+- **Code-Review** (1/10) — Found 5/26 approved changesets -- score normalized to 1
+- **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
+- **Branch-Protection** (-1/10) — internal error: error during branchesHandler.setup: internal error: some github tokens can't read classic branch protect…
 
 ## Source
 
@@ -33,27 +43,27 @@ Total: **102,223** lines of code across **541** files in the top 5 languages.
 ## Release
 
 - **Latest**: `2.3.5` (2026-11-02)
-- **Last commit**: 2026-11-23
+- **Last commit**: 2026-11-24
 - **Assets in release**: 25
 
 ## Popularity
 
-- **Stars**: 9,962 · **Forks**: 973 · **Open issues**: 1,563 · **Contributors**: 309
+- **Stars**: 9,968 · **Forks**: 974 · **Open issues**: 1,563 · **Contributors**: 310
 
 ## Totals (cumulative)
 
-- **Releases**: 84 · **Merged PRs**: 2420 · **Open PRs**: 24 · **Closed issues**: 1294 · **Open issues**: 269 · **Commits**: 3134
+- **Releases**: 84 · **Merged PRs**: 2423 · **Open PRs**: 22 · **Closed issues**: 1294 · **Open issues**: 269 · **Commits**: 3139
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-24 | 1 | 39 | 11 | 1 | 9 | 34 |
-| last60d | 2026-09-24 | 2 | 63 | 17 | 5 | 10 | 71 |
-| 90d | 2026-08-25 | 2 | 71 | 23 | 7 | 12 | 78 |
-| last180d | 2026-05-27 | 5 | 164 | 23 | 22 | 27 | 172 |
-| 360d | 2025-11-28 | 11 | 495 | 24 | 55 | 53 | 522 |
-| last720d | 2024-12-03 | 22 | 1086 | 24 | 195 | 108 | 1228 |
+| 30d | 2026-10-25 | 1 | 41 | 10 | 1 | 7 | 36 |
+| last60d | 2026-09-25 | 2 | 66 | 14 | 5 | 10 | 76 |
+| 90d | 2026-08-26 | 2 | 74 | 21 | 7 | 12 | 83 |
+| last180d | 2026-05-28 | 5 | 164 | 21 | 22 | 27 | 177 |
+| 360d | 2025-11-29 | 11 | 497 | 22 | 55 | 53 | 527 |
+| last720d | 2024-12-04 | 22 | 1087 | 22 | 195 | 108 | 1229 |
 
 ## Release assets
 
@@ -94,4 +104,4 @@ Install metadata for v2 lives in the [x-cmd/install](https://github.com/x-cmd/in
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261123.yml` · 2026-11-23T10:12:17Z._
+_Snapshot: `data/card/261124.yml` · 2026-11-24T10:30:43Z._
